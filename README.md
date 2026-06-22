@@ -27,19 +27,19 @@ Pour faire tourner ce projet sur votre machine locale :
 ```bash
     git clone [https://github.com/Inolmine/phishing_SCHOOL.git](https://github.com/Inolmine/phishing_SCHOOL.git)
     cd phishing_SCHOOL
-    ```
+```
 
 2.  **Installer les dépendances :**
     *Note : L'utilisation du flag `--legacy-peer-deps` est requise pour résoudre les conflits de versions liés à certaines bibliothèques React dans ce projet Next.js.*
 ```bash
     npm install --legacy-peer-deps
-    ```
+```
 
 3.  **Lancer le serveur de développement :**
 ```bash
     npm run dev
-    ```
-    Le projet sera accessible sur [http://localhost:3000](http://localhost:3000).
+```
+Le projet sera accessible sur [http://localhost:3000](http://localhost:3000).
 
 ## ☁️ Déploiement en Production
 
@@ -48,3 +48,4 @@ Ce projet est optimisé pour un déploiement fluide sur Vercel. Les fichiers `ve
 ```bash
 # Déploiement direct via Vercel CLI
 vercel --prod
+```
