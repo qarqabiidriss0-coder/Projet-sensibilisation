@@ -49,3 +49,4 @@ Ce projet est optimisé pour un déploiement fluide sur Vercel. Les fichiers `ve
 # Déploiement direct via Vercel CLI
 vercel --prod
 ```
+# Projet-sensibilisation
